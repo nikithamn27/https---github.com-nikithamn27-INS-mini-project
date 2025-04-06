@@ -149,10 +149,9 @@ project/
 
 ---
 
-## 📃 License
+## 📃 Demo link
 
-This project is for educational use only. You are free to modify, improve, and redistribute with proper attribution.
-
+https://drive.google.com/file/d/1gka19KFUzzTKajDx_cGsU82UazFNoQ3s/view?usp=drive_link
 ---
 
 
